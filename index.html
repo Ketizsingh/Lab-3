@@ -1,17 +1,87 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-	<title>Index - Lab-3</title>
+<title>Index</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the header */
+header {
+  background-color: #666;
+  padding: 10px;
+  text-align: center;
+  font-size: 22px;
+  color: white;
+}
+
+
+
+article {
+  float: left;
+  padding: 20px;
+  width: 100%;
+  background-color: #f1f1f1;
+  height: 300px; /* only for demonstration, should be removed */
+}
+
+/* Clear floats after the columns */
+section:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Style the footer */
+footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+/* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
+@media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: auto;
+  }
+}
+</style>
 </head>
 <body>
-	
-	<h1>Index Page</h1>
 
-	<ul>
+<header>
+  <h1>Index</h1>
+</header>
+
+<section>
+
+  
+  <article>
+
+    <p>This page is Index page this website which will refer you to some important pages of this website.</p>
+    <ul>
 	  <li><a href="docs.html">Documentations</a></li>
 	  <li><a href="table.html">Tabular Chart</a></li>
-	</ul>  
+	</ul> 
 
-	
+  </article>
+
+
+</section>
+
+<footer>
+  <p>Lab-3 Group Assignment</p>
+</footer>
+
 </body>
 </html>
+
