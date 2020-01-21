@@ -5,4 +5,4 @@ Gurpreet Singh  [ Demo: [click here](https://ketizsingh.github.io/Lab-3/Gurpreet
 
 Mohit Rawal     [ Demo: [click here](https://ketizsingh.github.io/Lab-3/Mohit%20Rawal/Index.html) ]
 
-Nikhil Rawal    [ Demo: [click here](https://ketizsingh.github.io/Lab-3/Nikhil%20Rawal/Index.html) ]
+Nikhil Rawal    [ Demo: [click here](https://github.com/Ketizsingh/Lab-3/blob/master/Nikhil%20Rawal/Index.html) ]
