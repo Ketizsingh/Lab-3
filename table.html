@@ -1,9 +1,133 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-	<title>Table Page</title>
+<title>Table Page</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the header */
+header {
+  background-color: #666;
+  padding: 10px;
+  text-align: center;
+  font-size: 22px;
+  color: white;
+}
+
+
+
+article {
+  float: left;
+  padding: 20px;
+  width: 100%;
+  background-color: #f1f1f1;
+  
+}
+
+/* Clear floats after the columns */
+section:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Style the footer */
+footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+
+@media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: auto;
+  }
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  padding: 10px;
+  
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+
+
+</style>
 </head>
 <body>
-	<h1>This is a table page</h1>
+
+<header>
+  <h1>Documentation</h1>
+</header>
+
+<section>
+
+  
+  <article>
+   
+
+   <center><a href="index.html">Back to Index</a></center>
+
+   
+   <table>
+		  <tr>
+		    <th>Image</th>
+		    <th>First Name</th>
+		    <th>Last Name</th>
+		    <th>Job Designation</th>
+		    <th>Salary</th>
+		  </tr>
+		  
+		  <tr>
+		    <td>Alfreds Futterkiste</td>
+		    <td>Gurpreet</td>
+		    <td>Singh</td>
+		    <td>Developer</td>
+		    <td>$15000</td>
+		  </tr>
+  
+</table>
+
+
+
+<center><a href="index.html">Back to Index</a></center>
+
+
+  </article>
+
+
+
+
+</section>
+
+<footer>
+
+  <p>Lab-3 Group Assignment</p>
+</footer>
+
 </body>
 </html>
+
