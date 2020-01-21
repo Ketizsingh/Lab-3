@@ -4,83 +4,12 @@
 <title>Table Page</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
-
-body {
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-/* Style the header */
-header {
-  background-color: #666;
-  padding: 10px;
-  text-align: center;
-  font-size: 22px;
-  color: white;
-}
-
-
-
-article {
-  float: left;
-  padding: 20px;
-  width: 100%;
-  background-color: #f1f1f1;
-  
-}
-
-/* Clear floats after the columns */
-section:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Style the footer */
-footer {
-  background-color: #777;
-  padding: 10px;
-  text-align: center;
-  color: white;
-}
-
-
-@media (max-width: 600px) {
-  nav, article {
-    width: 100%;
-    height: auto;
-  }
-}
-
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-  padding: 10px;
-  
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-
-
-
-</style>
+<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 
 <header>
-  <h1>Documentation</h1>
+  <h1>Table</h1>
 </header>
 
 <section>
@@ -89,10 +18,10 @@ tr:nth-child(even) {
   <article>
    
 
-   <center><a href="index.html">Back to Index</a></center>
+   <center><a class="back-to" title="Back to Index Page" href="index.html">Back to Index</a></center>
 
    
-   <table>
+   <table align="center">
 		  <tr>
 		    <th>Image</th>
 		    <th>First Name</th>
@@ -102,18 +31,76 @@ tr:nth-child(even) {
 		  </tr>
 		  
 		  <tr>
-		    <td>Alfreds Futterkiste</td>
-		    <td>Gurpreet</td>
-		    <td>Singh</td>
-		    <td>Developer</td>
-		    <td>$15000</td>
+		    <td><img alt="Konstan Profile Picture" title="Konstan Profile Picture" src="images/1.webp"></td>
+		    <td>Konstan</td>
+		    <td>Kobalt</td>
+		    <td>Seo Expert</td>
+		    <td>$60 /hr</td>
 		  </tr>
+
+		  <tr>
+		    <td><img alt="Sheela Profile Picture" title="Sheela Profile Picture" src="images/2.webp"></td>
+		    <td>Sheela</td>
+		    <td>Mehta</td>
+		    <td>Java Developer</td>
+		    <td>$50 /hr</td>
+		  </tr>
+
+		  <tr>
+		    <td><img alt="Justin Profile Picture" title="Justin Profile Picture" src="images/3.webp"></td>
+		    <td>Justin</td>
+		    <td>Smith</td>
+		    <td>.net Developer</td>
+		    <td>$30 /hr</td>
+		  </tr>
+
+		  <tr>
+		    <td><img alt="Johnson Profile Picture" title="Johnson Profile Picture" src="images/4.webp"></td>
+		    <td>Johnson</td>
+		    <td>Smith</td>
+		    <td>Android Developer</td>
+		    <td>$70 /hr</td>
+		  </tr>
+
+		  <tr>
+		    <td><img alt="Bre Profile Picture" title="Bre Profile Picture" src="images/5.webp"></td>
+		    <td>Bre</td>
+		    <td>Sehgal</td>
+		    <td>Swift Developer</td>
+		    <td>$70 /hr</td>
+		  </tr>
+
+		  <tr>
+		    <td><img alt="Daniel Profile Picture" title="Daniel Profile Picture" src="images/6.jpeg"></td>
+		    <td>Daniel</td>
+		    <td>Broos</td>
+		    <td>DB Planner</td>
+		    <td>$60 /hr</td>
+		  </tr>
+
+		  <tr>
+		    <td><img alt="Bru Profile Picture" title="Bru Profile Picture" src="images/7.webp"></td>
+		    <td>Bru</td>
+		    <td>Taler</td>
+		    <td>Php Developer</td>
+		    <td>$60 /hr</td>
+		  </tr>
+
+		  <tr>
+		    <td><img alt="Sim Profile Picture" title="Sim Profile Picture" src="images/8.webp"></td>
+		    <td>Sim</td>
+		    <td>Jack</td>
+		    <td>Designer</td>
+		    <td>$70 /hr</td>
+		  </tr>
+
+		
   
 </table>
 
 
 
-<center><a href="index.html">Back to Index</a></center>
+<center><a title="Back to Index Page" href="index.html">Back to Index</a></center>
 
 
   </article>
