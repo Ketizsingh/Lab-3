@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\Visual Studio 2019\Projects\OOP_With_Net_1-Class\Nikhil_Rawal_Assignment1\bin\Debug\Nikhil_Rawal_Assignment1.exe.config
+C:\Users\admin\Documents\Visual Studio 2019\Projects\OOP_With_Net_1-Class\Nikhil_Rawal_Assignment1\bin\Debug\Nikhil_Rawal_Assignment1.exe
+C:\Users\admin\Documents\Visual Studio 2019\Projects\OOP_With_Net_1-Class\Nikhil_Rawal_Assignment1\bin\Debug\Nikhil_Rawal_Assignment1.pdb
+C:\Users\admin\Documents\Visual Studio 2019\Projects\OOP_With_Net_1-Class\Nikhil_Rawal_Assignment1\obj\Debug\Nikhil_Rawal_Assignment1.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2019\Projects\OOP_With_Net_1-Class\Nikhil_Rawal_Assignment1\obj\Debug\Nikhil_Rawal_Assignment1.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2019\Projects\OOP_With_Net_1-Class\Nikhil_Rawal_Assignment1\obj\Debug\Nikhil_Rawal_Assignment1.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2019\Projects\OOP_With_Net_1-Class\Nikhil_Rawal_Assignment1\obj\Debug\Nikhil_Rawal_Assignment1.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Visual Studio 2019\Projects\OOP_With_Net_1-Class\Nikhil_Rawal_Assignment1\obj\Debug\Nikhil_Rawal_Assignment1.exe
+C:\Users\admin\Documents\Visual Studio 2019\Projects\OOP_With_Net_1-Class\Nikhil_Rawal_Assignment1\obj\Debug\Nikhil_Rawal_Assignment1.pdb

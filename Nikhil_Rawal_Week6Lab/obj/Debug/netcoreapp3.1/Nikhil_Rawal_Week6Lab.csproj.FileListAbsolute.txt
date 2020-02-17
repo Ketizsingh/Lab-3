@@ -1,0 +1,11 @@
+C:\Users\admin\Documents\Visual Studio 2019\Projects\OOP_With_Net_1-Class\Nikhil_Rawal_Week6Lab\bin\Debug\netcoreapp3.1\Nikhil_Rawal_Week6Lab.exe
+C:\Users\admin\Documents\Visual Studio 2019\Projects\OOP_With_Net_1-Class\Nikhil_Rawal_Week6Lab\bin\Debug\netcoreapp3.1\Nikhil_Rawal_Week6Lab.deps.json
+C:\Users\admin\Documents\Visual Studio 2019\Projects\OOP_With_Net_1-Class\Nikhil_Rawal_Week6Lab\bin\Debug\netcoreapp3.1\Nikhil_Rawal_Week6Lab.runtimeconfig.json
+C:\Users\admin\Documents\Visual Studio 2019\Projects\OOP_With_Net_1-Class\Nikhil_Rawal_Week6Lab\bin\Debug\netcoreapp3.1\Nikhil_Rawal_Week6Lab.runtimeconfig.dev.json
+C:\Users\admin\Documents\Visual Studio 2019\Projects\OOP_With_Net_1-Class\Nikhil_Rawal_Week6Lab\bin\Debug\netcoreapp3.1\Nikhil_Rawal_Week6Lab.dll
+C:\Users\admin\Documents\Visual Studio 2019\Projects\OOP_With_Net_1-Class\Nikhil_Rawal_Week6Lab\bin\Debug\netcoreapp3.1\Nikhil_Rawal_Week6Lab.pdb
+C:\Users\admin\Documents\Visual Studio 2019\Projects\OOP_With_Net_1-Class\Nikhil_Rawal_Week6Lab\obj\Debug\netcoreapp3.1\Nikhil_Rawal_Week6Lab.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2019\Projects\OOP_With_Net_1-Class\Nikhil_Rawal_Week6Lab\obj\Debug\netcoreapp3.1\Nikhil_Rawal_Week6Lab.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Visual Studio 2019\Projects\OOP_With_Net_1-Class\Nikhil_Rawal_Week6Lab\obj\Debug\netcoreapp3.1\Nikhil_Rawal_Week6Lab.AssemblyInfo.cs
+C:\Users\admin\Documents\Visual Studio 2019\Projects\OOP_With_Net_1-Class\Nikhil_Rawal_Week6Lab\obj\Debug\netcoreapp3.1\Nikhil_Rawal_Week6Lab.dll
+C:\Users\admin\Documents\Visual Studio 2019\Projects\OOP_With_Net_1-Class\Nikhil_Rawal_Week6Lab\obj\Debug\netcoreapp3.1\Nikhil_Rawal_Week6Lab.pdb
